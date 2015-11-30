@@ -1,0 +1,7 @@
+plugins:
+  mailgun_enabled:
+    default: true
+    client: true
+  mailgun_api_key:
+    client: true
+
