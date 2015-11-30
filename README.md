@@ -54,6 +54,10 @@ again. If a message fails to process, the controller still replies with
 200 OK, as, in the end, the message was successfully delivered to the
 Discourse instance.
 
+[Mailgun
+documentation](https://documentation.mailgun.com/user_manual.html#receiving-forwarding-and-storing-messages)
+for reference.
+
 Contributing
 ------------
 
